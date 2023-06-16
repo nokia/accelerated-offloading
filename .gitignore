@@ -1,0 +1,5 @@
+*.pcap
+.vscode/*
+.DS_Store
+*.csv
+build/*
